@@ -1,0 +1,20 @@
+Expense Tracker CLI v1.0 (Release Date: 24 December 2025):
+
+Features
+    - Add daily expenses with auto-filled current date
+    - Categorize expenses (Food, Travel, Rents, Utilities, Other)
+    - Store expense amount and short description
+    - View all recorded expenses in a tabular format
+    - Calculate total expenses and number of entries
+    - Persistent storage using a text file
+    - Input validation for expense amount
+    - Menu-driven and user-friendly CLI interface
+
+Planned Features (Future Updates)
+    - Category-wise expense summary
+    - Monthly / yearly expense reports
+    - Edit or delete existing expenses
+    - Custom date input for expenses
+    - GUI version of the application
+
+-----------------------------------------------------------------------
